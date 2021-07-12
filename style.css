@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+  }
+  #firstp{
+    word-spacing:10px;
+    font-variant:small-caps;
+    text-align:center;
+    font-size:70px;
+  }
+  
+  #reasontext{
+    font-size:50px;
+  }
+  #album{
+    border-style:solid;
+    padding:5px;
+    width:450px;
+    border:1px;
+    border-radius:80px;
+  }
+
+  
+  
+  
+  
+  
+    
+  
